@@ -19,4 +19,4 @@ Specifically, the competition consists in predicting whether a given knowledge-g
 
 **Kaggle Competition:** https://www.kaggle.com/c/unicredittrainingcamp/overview/description
 
-**Result:** 2nd Winner Team
+**Result: 2nd Winner Team**
